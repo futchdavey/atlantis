@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": null
+      "value": "futchsp1"
     },
     "administratorLogin": {
-      "value": null
+      "value": "futch"
     },
     "databaseName": {
-      "value": null
+      "value": "daveydb"
     }
   }
 }
